@@ -1,0 +1,2 @@
+debian/bin/HeelCoind usr/bin
+src/HeelCoind usr/lib/HeelCoin
